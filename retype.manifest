@@ -1,0 +1,87 @@
+{
+  "version": "3.11.0",
+  "created": "2025-11-10T15:10:02Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "context\\index.html"
+    },
+    {
+      "path": "detail\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\01-nota-dinas.png"
+    },
+    {
+      "path": "static\\02-delegasi.png"
+    },
+    {
+      "path": "static\\05-draft-artikel.png"
+    },
+    {
+      "path": "static\\06-1-instagram.png"
+    },
+    {
+      "path": "static\\06-2-website.png"
+    },
+    {
+      "path": "static\\07-chat.png"
+    },
+    {
+      "path": "static\\flowchart-alur-publikasi-berita-kegiatan.png"
+    }
+  ]
+}
