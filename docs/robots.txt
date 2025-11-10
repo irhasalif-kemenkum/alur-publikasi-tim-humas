@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://docs.example.com/sitemap.xml.gz
+Sitemap: https://irhasalif-kemenkum.github.io/alur-publikasi-tim-humas/sitemap.xml.gz
