@@ -1,7 +1,7 @@
 input: srcs
 output: docs
 
-url: docs.example.com # Use your website address here
+url: https://irhasalif-kemenkum.github.io/alur-publikasi-tim-humas/
 
 start:
   # Uncomment the next line to try Retype Pro features
